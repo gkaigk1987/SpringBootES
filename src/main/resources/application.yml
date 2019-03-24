@@ -16,7 +16,7 @@ spring:
     url: jdbc:mysql://rm-bp102k9m31w3854p4o.mysql.rds.aliyuncs.com:3306/pqdt?rewriteBatchedStatements=true&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useOldAliasMetadataBehavior=true&serverTimezone=CTT
     driver-class-name: com.mysql.jdbc.Driver
     username: datacenter
-    password: yx7qSzIsq_sqwk
+    password: mimabutigong
     filters: stat,wall
     maxActive: 100
     initialSize: 10
